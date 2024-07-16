@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @moepo3
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning SQL and R
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science & Machine Learning
+- 🌱 I’m currently an expert in SQL and Python but looking to build and add to my skillset everyday
 - 📫 How to reach me moshedposner@gmail.com
 
 <!---
